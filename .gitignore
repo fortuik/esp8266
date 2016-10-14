@@ -1,0 +1,16 @@
+# .ignore
+
+*~
+*.swp
+*.swo
+.idea
+
+.*docs/_build/[^.].*
+.*\.pyc
+.*\.mkc
+.*\.mpy
+__pycache__
+
+config.py
+umqtt/*
+usched.py

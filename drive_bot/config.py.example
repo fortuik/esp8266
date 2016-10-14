@@ -1,0 +1,5 @@
+#!!! Edit this file and rename/copy it to "config.py"
+
+# WLAN Configuration
+WLAN_SSID = '<your WLAN SSID>'
+WLAN_PSK = '<your WLAN pre-shared-key>'
